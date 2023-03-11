@@ -1,0 +1,155 @@
+@charset "ISO-8859-1";
+
+.m
+ {
+position: absolute; left:200px; top:50px;
+width: 300px;
+height: 600px;
+z-index:1;
+background: #B6B3AD;
+
+}
+.t{
+position: absolute;
+    left: 500px;
+    top: 70px;
+    width: 300px;
+    height: 60%;
+    background: #FFFFFF;
+}
+.t .y{
+    position:absolute; right:30px; bottom: 100px;
+
+}
+.y > label{
+    position:absolute; right:200px;
+
+}
+.t .i{
+    position: absolute;
+    right: 276px;
+    bottom: 24px;
+    width: 150px;
+    height: 229px;
+}
+.t .l{
+position: absolute;
+    right: 304px;
+    top: 177px;
+    width: 97px;
+    height: 23px;
+}
+.t .o{
+    position: absolute;
+width: 120px;
+height: 28px;
+left: 200px;
+top: -20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #117ECC;
+
+}
+.t .h{
+    position: absolute; right:710px; top:300px;
+width: 100px;
+height: 300px;
+
+}
+.t .f{
+    position: absolute;
+    width: 149px;
+    height: 32px;
+    left: 10px;
+    top: 217px;
+}
+
+.m .b{
+     
+position: absolute;
+width: 169px;
+height: 32px;
+left: 19px;
+top: 100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+}
+.m .z{
+    position: absolute;
+width: 169px;
+height: 32px;
+left: 19px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+}
+.m .q{
+    position: absolute;
+    width: 169px;
+    height: 32px;
+    left: 18px;
+    top: 300px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #117ECC;
+    
+
+}
+.m .r{
+    position: absolute;
+width: 169px;
+height: 32px;
+left: 19px;
+top: 400px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+}
+.m .o{
+    /* Full Calender */
+
+
+position: absolute;
+width: 169px;
+height: 32px;
+left: 18px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
